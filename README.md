@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Fernando Mejía!(@lagoon1908)
+- 👀 I’m interested in Science and webdevelopment!
+- 🌱 I’m currently learning Front-end/
+- 💞️ I’m looking to collaborate on interesting website projects.
+- 📫 How to reach me you can take a look at my personal website ;)
